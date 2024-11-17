@@ -1,11 +1,9 @@
 # Hello, I'm Rohan! <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/thanos.gif" width="45px" />
 
 [![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohanbhautoo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rohan_bhautoo/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bhautoo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rohan-bhautoo](https://medium.com/@rohanbhautoo))
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanbhautoo)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11040534/rohan)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/763085460188037180)
 
 > *"Programming isn't about what you know; it's about what you can figure out."*
 <p align="center">
